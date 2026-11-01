@@ -1,10 +1,5 @@
--- WindUI icon asset mappings extracted from Footagesus/Icons collections.
--- Direct-image collections use the format: ["icon-name"] = "rbxassetid://...".
--- Craft and Geist use spritesheets; their image IDs and crop metadata are preserved.
--- Source: https://github.com/Footagesus/Icons
-
 return {
-    lucide = { -- 1,715 direct image icons
+    lucide = {
         ["a-arrow-down"] = "rbxassetid://92867583610071",
         ["a-arrow-up"] = "rbxassetid://132318504999733",
         ["a-large-small"] = "rbxassetid://111491496660216",
